@@ -1,1 +1,2 @@
-readme file about preprocessing.
+readme file about preprocessing
+using puts in c.
